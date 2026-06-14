@@ -1,0 +1,71 @@
+{
+  "seo": {
+    "title": "BELO | Wireless Doorbell & Mechanical Chime OEM Manufacturer",
+    "description": "BELO manufactures wireless RF doorbells, wired mechanical chimes, self-powered doorbells and sensor doorbells with OEM/ODM service for global B2B buyers."
+  },
+  "header": {
+    "home": "Home",
+    "products": "Products",
+    "oem": "OEM/ODM",
+    "factory": "Factory",
+    "about": "About Us",
+    "news": "News",
+    "contact": "Contact Us",
+    "quote": "Get a Quote"
+  },
+  "hero": {
+    "eyebrow": "OEM/ODM manufacturer since 1990",
+    "title": "Precision Doorbells Engineered for Global Brands",
+    "lead": "From Zhongshan, BELO supplies wireless, self-powered, sensor and mechanical doorbells to importers, wholesalers and retail channels in 60+ countries.",
+    "primary": "Start OEM Project",
+    "secondary": "View Product Range"
+  },
+  "products": {
+    "label": "Product categories",
+    "title": "Doorbell product lines for B2B sourcing.",
+    "intro": "Choose wireless RF, wired mechanical, self-powered or sensor doorbell solutions by market, voltage, channel and OEM requirements.",
+    "items": [
+      {
+        "name": "Wireless RF Doorbells",
+        "summary": "433.92MHz chimes with AC/DC options, 36 melodies and long-range receiving."
+      },
+      {
+        "name": "Wired Mechanical Chimes",
+        "summary": "Classic ding-dong wired doorbells for 110V/220V markets and replacement channels."
+      },
+      {
+        "name": "Self-Powered Doorbells",
+        "summary": "Battery-free kinetic transmitters for low-maintenance and eco-focused ranges."
+      },
+      {
+        "name": "Motion Sensor Doorbells",
+        "summary": "Entrance sensor chimes for shops, service counters and commercial doors."
+      }
+    ]
+  },
+  "about": {
+    "label": "About BELO",
+    "title": "A real doorbell factory supporting export-ready OEM programs.",
+    "text": "BELO combines mold tooling, injection production, PCB support, packaging customization and export quality control to serve importers, brand owners and retail chains."
+  },
+  "contact": {
+    "label": "Contact Us",
+    "title": "Send your doorbell sourcing request.",
+    "text": "Tell us your market, quantity, voltage, plug type, product range and OEM requirements.",
+    "email": "xinhui@allight.com"
+  },
+  "language": {
+    "label": "Language"
+  },
+  "sellingPoints": [
+    "ISO-9001 quality control",
+    "Private label packaging",
+    "Custom PCB and mold support",
+    "Export documents and certification support"
+  ],
+  "footer": {
+    "company": "ZHONGSHAN BELO ELECTRONICS TECHNOLOGY CO., LTD",
+    "tagline": "Premium doorbell and electronics manufacturer since 1990.",
+    "corePages": "Core Pages"
+  }
+}

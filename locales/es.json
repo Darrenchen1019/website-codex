@@ -1,0 +1,71 @@
+{
+  "seo": {
+    "title": "BELO | Fabricante OEM de timbres inalambricos y mecanicos",
+    "description": "BELO fabrica timbres RF inalambricos, timbres mecanicos cableados, timbres autoalimentados y timbres con sensor para compradores B2B globales."
+  },
+  "header": {
+    "home": "Inicio",
+    "products": "Productos",
+    "oem": "OEM/ODM",
+    "factory": "Fabrica",
+    "about": "Sobre nosotros",
+    "news": "Noticias",
+    "contact": "Contacto",
+    "quote": "Solicitar cotizacion"
+  },
+  "hero": {
+    "eyebrow": "Fabricante OEM/ODM desde 1990",
+    "title": "Timbres de precision para marcas globales",
+    "lead": "Desde Zhongshan, BELO suministra timbres inalambricos, autoalimentados, con sensor y mecanicos a importadores, mayoristas y canales minoristas en mas de 60 paises.",
+    "primary": "Iniciar proyecto OEM",
+    "secondary": "Ver gama de productos"
+  },
+  "products": {
+    "label": "Categorias de productos",
+    "title": "Lineas de timbres para abastecimiento B2B.",
+    "intro": "Elija soluciones RF inalambricas, mecanicas cableadas, autoalimentadas o con sensor segun mercado, voltaje, canal y requisitos OEM.",
+    "items": [
+      {
+        "name": "Timbres RF inalambricos",
+        "summary": "Timbres 433.92MHz con opciones AC/DC, 36 melodias y largo alcance."
+      },
+      {
+        "name": "Timbres mecanicos cableados",
+        "summary": "Timbres ding-dong clasicos para mercados 110V/220V."
+      },
+      {
+        "name": "Timbres autoalimentados",
+        "summary": "Transmisores cineticos sin bateria para gamas ecologicas."
+      },
+      {
+        "name": "Timbres con sensor",
+        "summary": "Avisadores de entrada para tiendas, mostradores y puertas comerciales."
+      }
+    ]
+  },
+  "about": {
+    "label": "Sobre BELO",
+    "title": "Una fabrica real de timbres para programas OEM de exportacion.",
+    "text": "BELO integra moldes, inyeccion, soporte PCB, embalaje personalizado y control de calidad para importadores, marcas y cadenas minoristas."
+  },
+  "contact": {
+    "label": "Contacto",
+    "title": "Envie su solicitud de abastecimiento.",
+    "text": "Indique mercado, cantidad, voltaje, enchufe, gama de producto y requisitos OEM.",
+    "email": "xinhui@allight.com"
+  },
+  "language": {
+    "label": "Idioma"
+  },
+  "sellingPoints": [
+    "ISO-9001 quality control",
+    "Private label packaging",
+    "Custom PCB and mold support",
+    "Export documents and certification support"
+  ],
+  "footer": {
+    "company": "ZHONGSHAN BELO ELECTRONICS TECHNOLOGY CO., LTD",
+    "tagline": "Premium doorbell and electronics manufacturer since 1990.",
+    "corePages": "Core Pages"
+  }
+}
