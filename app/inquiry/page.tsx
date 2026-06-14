@@ -64,7 +64,7 @@ export default function InquiryPage() {
           <aside className="inquiry-side-panel">
             <div className="inquiry-side-card">
               <span>Send to</span>
-              <strong>xinhui@allight.com</strong>
+              <strong>xinhui@allight.com.cn</strong>
               <p>
                 The form is prepared for direct email delivery through the website API route. Add your email service key
                 before production launch.

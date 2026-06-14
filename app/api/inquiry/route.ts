@@ -11,7 +11,7 @@ type InquiryPayload = {
   website?: string;
 };
 
-const recipientEmail = "xinhui@allight.com";
+const fallbackRecipientEmail = "xinhui@allight.com.cn";
 const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
 const phonePattern = /^\+?[0-9\s().-]{7,25}$/;
 
@@ -86,12 +86,13 @@ export async function POST(request: Request) {
 
   const resendApiKey = process.env.RESEND_API_KEY;
   const fromEmail = process.env.INQUIRY_FROM_EMAIL || "BELO Website <onboarding@resend.dev>";
+  const recipientEmail = process.env.INQUIRY_TO_EMAIL || fallbackRecipientEmail;
 
   if (!resendApiKey) {
     return NextResponse.json(
       {
         message:
-          "Email service is not configured yet. Add RESEND_API_KEY and INQUIRY_FROM_EMAIL to enable delivery."
+          "Email service is not configured yet. Add RESEND_API_KEY, INQUIRY_FROM_EMAIL and INQUIRY_TO_EMAIL to enable delivery."
       },
       { status: 503 }
     );
@@ -117,7 +118,7 @@ export async function POST(request: Request) {
   if (!response.ok) {
     return NextResponse.json(
       {
-        message: "Unable to send your inquiry right now. Please email xinhui@allight.com directly."
+        message: `Unable to send your inquiry right now. Please email ${recipientEmail} directly.`
       },
       { status: 502 }
     );
